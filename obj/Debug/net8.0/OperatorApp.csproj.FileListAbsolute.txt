@@ -1,0 +1,14 @@
+D:\HCMUTE\HK2\LTHDT\OperatorApp\bin\Debug\net8.0\OperatorApp.deps.json
+D:\HCMUTE\HK2\LTHDT\OperatorApp\bin\Debug\net8.0\OperatorApp.dll
+D:\HCMUTE\HK2\LTHDT\OperatorApp\bin\Debug\net8.0\OperatorApp.pdb
+D:\HCMUTE\HK2\LTHDT\OperatorApp\obj\Debug\net8.0\OperatorApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\HCMUTE\HK2\LTHDT\OperatorApp\obj\Debug\net8.0\OperatorApp.AssemblyInfoInputs.cache
+D:\HCMUTE\HK2\LTHDT\OperatorApp\obj\Debug\net8.0\OperatorApp.AssemblyInfo.cs
+D:\HCMUTE\HK2\LTHDT\OperatorApp\obj\Debug\net8.0\OperatorApp.csproj.CoreCompileInputs.cache
+D:\HCMUTE\HK2\LTHDT\OperatorApp\obj\Debug\net8.0\OperatorApp.dll
+D:\HCMUTE\HK2\LTHDT\OperatorApp\obj\Debug\net8.0\refint\OperatorApp.dll
+D:\HCMUTE\HK2\LTHDT\OperatorApp\obj\Debug\net8.0\OperatorApp.pdb
+D:\HCMUTE\HK2\LTHDT\OperatorApp\obj\Debug\net8.0\ref\OperatorApp.dll
+D:\HCMUTE\HK2\LTHDT\OperatorApp\bin\Debug\net8.0\OperatorApp.exe
+D:\HCMUTE\HK2\LTHDT\OperatorApp\bin\Debug\net8.0\OperatorApp.runtimeconfig.json
+D:\HCMUTE\HK2\LTHDT\OperatorApp\obj\Debug\net8.0\OperatorApp.genruntimeconfig.cache

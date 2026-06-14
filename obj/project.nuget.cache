@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VrVmDR+lyN6E/d/10eraIpXc1h31pcgW4fdQt14m9vyvnpWSLIImm88yntmJShcPDxg3/G4xP8/kQZWMBySOAQ==",
+  "success": true,
+  "projectFilePath": "D:\\HCMUTE\\HK2\\LTHDT\\OperatorApp\\OperatorApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ntngu\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.5\\microsoft.dotnet.ilcompiler.8.0.5.nupkg.sha512",
+    "C:\\Users\\ntngu\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.5\\microsoft.net.illink.tasks.8.0.5.nupkg.sha512",
+    "C:\\Users\\ntngu\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.5\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
